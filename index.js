@@ -7,12 +7,12 @@ function countToTen(){
 countToTen()
 //2
 function countFromOne(Num){
-    for(let i=0; i<Num; i++){
+    for(let i=0; i<=Num; i++){
         console.log(i)
     }
   
 }
-countFromOne(100)
+countFromOne(25)
 
 //3
 function countEveryEven(Num){
@@ -23,7 +23,7 @@ function countEveryEven(Num){
     }
   
 }
-countEveryEven(100)
+countEveryEven(20)
 
 //4
 function countEveryOdd(Num){
@@ -34,10 +34,10 @@ function countEveryOdd(Num){
     }
   
 }
-countEveryOdd(50)
+countEveryOdd(13)
 //5 
 function countEvens(){
-    for(let)
+    
   
 }
 
